@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Welcome to Mobile1x
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://mobile1x.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+           Your Mobile Journey Starts Here
         </a>
       </header>
     </div>
